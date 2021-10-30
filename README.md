@@ -1,6 +1,6 @@
 # Bikeshare
 **Project for Udacity Data Analysis Professional Nanodegree**
-Using data provided by Motivate to uncover bike share usage patterns. 
+<br>Using data provided by Motivate to uncover bike share usage patterns. 
 
 
 ### The Datasets
